@@ -1,0 +1,27 @@
+.titulo{
+    text-align: center;
+    justify-content: center;
+    background-image: url(./imagenes/fondo1.jpg);
+    color: aliceblue;
+}
+
+.titulo h4{
+    margin-bottom: 0%;
+}
+
+
+.titulotour{
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+
+}
+
+.tour {
+    justify-content: center;
+    text-align: center;
+}
+
+.fondo2{
+    background: url(./imagenes/fondo2.jpg);
+}
